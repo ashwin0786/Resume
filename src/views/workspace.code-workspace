@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../../Norigin-Spatial-Navigation"
+	},
+	{
+		"path": "../../../mewatch_ctv"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "learn-js",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
